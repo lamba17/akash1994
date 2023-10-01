@@ -1,0 +1,7 @@
+								<style>
+									body {
+										background-image: url(New\ York.jpg);
+										background-size: cover;
+										background-position: center;
+									}
+								</style>
